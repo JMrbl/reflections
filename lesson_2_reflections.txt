@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+R= When I initialize a repository its create a .git file in the current folder. 
+That allows me manage my files in the current folder with feature like version control, clone repository, commits changes to a file, and others.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+R= Staging area is a area where it puts files added through the command git add, those files are ready for commit. 
